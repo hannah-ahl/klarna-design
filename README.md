@@ -6,7 +6,7 @@ Lorem ipsum something
 
 | Curve | Tension / Stiffness | Friciton / Dumping | Duration |
 | :--- | :--- | :--- | :--- |
-| bounce-small | 500 | 32 | 400ms |
+| bounce-small | 500 | 36 | 4366ms |
 | bounce-medium | 400 | 25 | 600ms |
 | bounce-large | 324 | 20 | 833ms |
 
