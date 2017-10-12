@@ -14,8 +14,7 @@ Lorem ipsum
 
 | Curve | Tension / Stiffness | Friciton / Dumping | Duration |
 | :--- | :--- | :--- | :--- |
-| ease-instant | 750 | 50 | 283ms |
-| ease-fast |  |  |  |
+| ease-fast | 750 | 50 | 283ms |
 | ease-medium | 300 | 31 | 650ms |
 | ease-large | 400 | 50 | 883ms |
 
