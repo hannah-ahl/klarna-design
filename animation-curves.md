@@ -1,6 +1,6 @@
-# Test page for animation curves
+# Animation curves
 
-Lorem ipsum
+These will iterated on, and function as a first test set to try out in the components.
 
 #### Bounce curve set
 
