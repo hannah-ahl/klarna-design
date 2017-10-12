@@ -1,22 +1,4 @@
-# Test page for animation curves
+# Introduction
 
-Lorem ipsum 
-
-#### Bounce curve set
-
-| Curve | Tension / Stiffness | Friciton / Dumping | Duration |
-| :--- | :--- | :--- | :--- |
-| bounce-small | 500 | 36 | 466ms |
-| bounce-medium | 400 | 25 | 600ms |
-| bounce-large | 324 | 20 | 833ms |
-
-#### Ease curve set
-
-| Curve | Tension / Stiffness | Friciton / Dumping | Duration |
-| :--- | :--- | :--- | :--- |
-| ease-fast | 630 | 45 | 283ms |
-| ease-medium | 300 | 31 | 650ms |
-| ease-large | 400 | 50 | 883ms |
-
-
+GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
