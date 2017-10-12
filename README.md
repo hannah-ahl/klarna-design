@@ -1,6 +1,6 @@
 # Test page for animation curves
 
-Lorem ipsum something
+Lorem ipsum 
 
 #### Bounce curve set
 
