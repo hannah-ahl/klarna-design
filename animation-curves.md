@@ -1,3 +1,5 @@
+{% extends template.self %}
+
 # Animation curves
 
 These will iterated on, and function as a first test set to try out in the components.
@@ -17,6 +19,3 @@ These will iterated on, and function as a first test set to try out in the compo
 | ease-fast | 750 | 50 | 283ms |
 | ease-medium | 300 | 31 | 650ms |
 | ease-slow | 400 | 50 | 883ms |
-
-
-
