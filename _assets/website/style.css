@@ -1,5 +1,6 @@
 body{
   font-family: "Klarna Sans";
+  color: #990000;
 }
 
 h1{
@@ -11,5 +12,5 @@ h1{
 h4{
   font-family: "Klarna Headline";
   font-size: 23px;
-  line-height: 25px;  
+  line-height: 25px;
 }
