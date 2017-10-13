@@ -46,7 +46,7 @@
         "properties": {
           "website": {
             "title": "Stylesheet for website output",
-            "default": "styles/website.css"
+            "default": "./src/less/website.css"
           },
           "pdf": {
             "title": "Stylesheet for PDF output",
