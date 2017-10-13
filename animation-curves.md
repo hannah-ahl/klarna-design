@@ -1,5 +1,3 @@
-{% extends template.self %}
-
 # Animation curves
 
 These will iterated on, and function as a first test set to try out in the components.
