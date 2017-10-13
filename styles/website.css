@@ -1,3 +1,9 @@
 body{
   font-family: "Klarna Sans";
 }
+
+h1{
+  font-family: "Klarna Headline";
+  font-size: 36px;
+  line-height: 50px;
+}
