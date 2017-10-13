@@ -1,4 +1,9 @@
 {
+    "language": "ar",
+    "direction": "rtl"
+}
+
+{
     "plugins": ["theme-default"]
 }
 
