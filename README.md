@@ -1,4 +1,5 @@
-# Introduction
+# GitBook Default Theme
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This is the default theme for GitBook since version `3.0.0`. It can be used as a template for theming books or can be extended.
 
+![Image](https://raw.github.com/GitbookIO/theme-default/master/preview.png)
