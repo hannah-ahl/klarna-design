@@ -14,7 +14,7 @@
 @header-height:                       50px;
 @header-color:                        hsl(194, 5%, 52%);
 @header-background:                   transparent;
-@header-border:                       /*rgba(0, 0, 0, 0.07)*/;
+@header-border:                       rgba(0, 0, 0, 0.07);
 @header-button-color:                 #ccc;
 @header-button-hover-color:           #444;
 @header-button-hover-background:      none;
@@ -31,8 +31,8 @@
 @sidebar-width:                       300px;
 @sidebar-breakpoint:                  600px;
 @sidebar-color:                       hsl(207, 15%, 25%);
-@sidebar-background:                  #ffffff;
-@sidebar-border-right:                /*1px solid @header-border*/;
+@sidebar-background:                  #fafafa;
+@sidebar-border-right:                1px solid @header-border;
 
 @sidebar-nested-padding:              20px;
 @sidebar-divider-color:               @header-border;
@@ -57,7 +57,7 @@
 
 // Page
 @page-color:                          black;
-@page-background:                     #000 /*@body-background*/;
+@page-background:                     @body-background;
 
 // Content
 @content-line-height:                 1.7;
@@ -82,8 +82,8 @@
 @border-radius-small:                 1px;
 
 // Fonts
-@font-family-serif:                   "Klarna Headline", Georgia, serif;
-@font-family-sans:                    "Klarna Sans", Helvetica, Arial, sans-serif;
+@font-family-serif:                   Georgia, serif;
+@font-family-sans:                    "Helvetica Neue", Helvetica, Arial, sans-serif;
 @font-family-base:                    @font-family-sans;
 @headings-font-family:                inherit;
 
