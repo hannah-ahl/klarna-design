@@ -18,7 +18,7 @@ describe('styles-less', function() {
         gitbook: pkg.engines.gitbook,
         "plugins": ["styles-less"],
         "styles": {
-          "website": "./styles/website.less"
+          "website": "./src/less/website.less"
         }
       })
       .withFile('styles/website.less', '@color:red; body {color: @color;}')

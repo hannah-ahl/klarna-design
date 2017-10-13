@@ -1,9 +1,3 @@
 {
     "plugins": ["theme-default"]
 }
-{
-    "plugins": ["styles-less"],
-    "styles": {
-        "website": "./src/less/website.less"
-    }
-}
