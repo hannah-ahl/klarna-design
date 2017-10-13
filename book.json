@@ -1,8 +1,5 @@
 {
     "language": "ar",
-    "direction": "rtl"
-}
-
-{
+    "direction": "rtl",
     "plugins": ["theme-default"]
 }
