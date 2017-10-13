@@ -1,3 +1,10 @@
 {
     "plugins": ["theme-default"]
 }
+
+{
+    "plugins": ["styles-less"],
+    "styles": {
+        "pdf": "./styles/pdf.less"
+    }
+}
