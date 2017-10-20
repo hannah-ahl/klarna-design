@@ -93,17 +93,17 @@ th{
   background-color: #ffffff;
 }
 
-li, li a{
+li{
   font-family: "Klarna Sans";
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0;
 }
 
-li.chapter a{
+a.li.chapter{
   color: #787878;
 }
 
-li.chapter.active a{
+a.li.chapter.active{
   color: #343434;
 }
