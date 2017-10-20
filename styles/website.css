@@ -98,14 +98,14 @@ th{
   letter-spacing: 0;
 }
 
-.book-summary a{
+.book-summary.summary a{
   color: #787878;
 }
 
-.book-summary.active a{
+.book-summary.summary.active a{
   color: #343434;
 }
 
 .book-summary.divider{
-  background-color: #ffffff;
+  border: none;
 }
