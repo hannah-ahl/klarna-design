@@ -65,6 +65,14 @@ p{
   color: #787878;
 }
 
+ul{
+  font-family: "Klarna Sans";
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0;
+  color: #787878;  
+}
+
 table{
   font-family: "Klarna Sans";
   font-size: 16px;
