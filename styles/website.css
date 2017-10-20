@@ -100,10 +100,10 @@ li{
   letter-spacing: 0;
 }
 
-a.li.chapter{
+.li.chapter{
   color: #787878;
 }
 
-a.li.chapter.active{
+.li.chapter.active{
   color: #343434;
 }
