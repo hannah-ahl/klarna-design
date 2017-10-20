@@ -44,7 +44,7 @@ h2{
 h3{
   font-family: "Klarna Headline";
   font-size: 19px;
-  line-height: 25px;
+  line-height: 0px;
   letter-spacing: -0.2;
 }
 
@@ -81,7 +81,6 @@ th, td {
 th{
   height: 40px;
   font-weight: 1000;
-  padding-top: 50px;
 }
 
 tr:nth-child(even){
