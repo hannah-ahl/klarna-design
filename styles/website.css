@@ -104,6 +104,6 @@ li.chapter a{
   color: #787878;
 }
 
-li.chapter-active a{
+li.chapter.active a{
   color: #343434;
 }
