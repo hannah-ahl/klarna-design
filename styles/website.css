@@ -89,7 +89,6 @@ th{
 
 .book-summary{
   background-color: #ffffff;
-  border: none;
 }
 
 .book-summary.li{
@@ -97,10 +96,17 @@ th{
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0;
+  border: none;
+}
+
+.book-summary a{
+  color: #787878;
+  text-transform: underline;
 }
 
 .book-summary.li a{
   color: #787878;
+  text-transform: underline;
 }
 
 .book-summary.summary.li.chapter a{
