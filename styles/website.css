@@ -99,3 +99,8 @@ th{
   border: none;
   color: #787878;
 }
+
+.image-wrapper {
+    text-align: center;
+    padding: 15px 0px;
+}
