@@ -2,7 +2,7 @@
 
 These will iterated on, and function as a first test set to try out in the components.
 
-#### Bounce curve set
+### Bounce curve set
 
 | Curve | Tension / Stiffness | Friction / Dumping | Duration |
 | :--- | :--- | :--- | :--- |
@@ -10,10 +10,13 @@ These will iterated on, and function as a first test set to try out in the compo
 | bounce-medium | 400 | 25 | 600ms |
 | bounce-large | 324 | 20 | 833ms |
 
-#### Ease curve set
+### Ease curve set
 
 | Curve | Tension / Stiffness | Friction / Dumping | Duration |
 | :--- | :--- | :--- | :--- |
 | ease-fast | 750 | 50 | 283ms |
 | ease-medium | 300 | 31 | 650ms |
 | ease-slow | 400 | 50 | 883ms |
+
+
+
