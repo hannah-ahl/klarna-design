@@ -7,23 +7,25 @@ h1{
   font-family: "Klarna Headline";
   font-size: 36px;
   line-height: 50px;
+  letter-spacing: -0.2;
 }
 
 h2{
   font-family: "Klarna Headline";
   font-size: 23px;
   line-height: 25px;
+  letter-spacing: -0.2;
 }
 
 h3{
   font-family: "Klarna Headline";
   font-size: 19px;
   line-height: 25px;
+  letter-spacing: -0.2;
 }
 
 h4{
   font-family: "Klarna Sans";
-  font-weight: 800;
   font-size: 14px;
   letter-spacing: 1;
   text-transform: uppercase;
