@@ -100,7 +100,12 @@ th{
   color: #787878;
 }
 
-.image-wrapper {
+.image-wrapper{
+    text-align: left;
+    padding: 10px 0px;
+}
+
+.image-wrapper table{
     text-align: center;
-    padding: 15px 0px;
+    padding: 10px 0px;
 }
