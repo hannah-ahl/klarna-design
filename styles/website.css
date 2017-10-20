@@ -1,5 +1,4 @@
 body{
-  background-color: #000;
   font-family: "Klarna Sans";
   color: #343434;
 }
@@ -10,8 +9,30 @@ h1{
   line-height: 50px;
 }
 
-h4{
+h2{
   font-family: "Klarna Headline";
   font-size: 23px;
   line-height: 25px;
+}
+
+h3{
+  font-family: "Klarna Headline";
+  font-size: 19px;
+  line-height: 25px;
+}
+
+h4{
+  font-family: "Klarna Sans";
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.4;
+  text-transform: uppercase;
+  line-height: 20px;
+}
+
+p{
+  font-family: "Klarna Sans";
+  font-size: 16px;
+  line-height: 25px;
+  color: #787878;
 }
