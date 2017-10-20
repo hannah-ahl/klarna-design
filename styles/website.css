@@ -65,15 +65,15 @@ p{
   color: #787878;
 }
 
-ul, ul a{
+li, li a{
   font-family: "Klarna Sans";
   font-size: 16px;
-  line-height: 10px;
+  line-height: 20px;
   letter-spacing: 0;
   color: #787878;
 }
 
-ul a:active{
+li a:active{
   color: #343434;
 }
 
