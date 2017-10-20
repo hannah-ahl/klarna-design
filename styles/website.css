@@ -89,7 +89,6 @@ th{
 
 .book-summary{
   background-color: #ffffff;
-  color: #787878;
 }
 
 .book-summary li{
@@ -99,44 +98,4 @@ th{
   letter-spacing: 0;
   border: none;
   color: #787878;
-}
-
-.book-summary ul{
-  color: #787878;
-}
-
-.book-summary ul a{
-  color: #787878;
-}
-
-.book-summary a{
-  color: #787878;
-  text-transform: underline;
-}
-
-.book-summary li a{
-  color: #787878;
-  text-transform: underline;
-}
-
-.book-summary.chapter a{
-  color: #787878;
-  text-transform: underline;
-}
-
-.book-summary.chapter.active a{
-  color: #343434;
-}
-
-.book-summary li.chapter a{
-  color: #787878;
-  text-transform: underline;
-}
-
-.book-summary li.chapter.active a{
-  color: #343434;
-}
-
-.book-summary li.divider{
-  border: none;
 }
