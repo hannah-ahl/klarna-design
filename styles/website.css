@@ -65,21 +65,6 @@ p{
   color: #787878;
 }
 
-li, li a{
-  font-family: "Klarna Sans";
-  font-size: 16px;
-  line-height: 20px;
-  letter-spacing: 0;
-}
-
-.chapter a{
-  color: #787878;
-}
-
-.chapter-active a{
-  color: #343434;
-}
-
 table{
   font-family: "Klarna Sans";
   font-size: 16px;
@@ -99,10 +84,23 @@ th{
   font-weight: 1000;
 }
 
+/* -------------- SIDEBAR -------------- */
+
 .book-summary{
-  background-color: #f2f2f1;
+  background-color: #ffffff;
 }
 
-/*tr:nth-child(even){
-  background-color: #f2f2f1;
-}*/
+li, li a{
+  font-family: "Klarna Sans";
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+.chapter a{
+  color: #787878;
+}
+
+.chapter-active a{
+  color: #343434;
+}
