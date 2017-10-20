@@ -1,10 +1,10 @@
 @staticPath: ".";
 
 // Font sizes
-@font-size-base:          16px;
-@font-size-large:         ceil(@font-size-base); // ~18px
-@font-size-small:         ceil(@font-size-base); // ~12px
-@line-height-base:        1;
+@font-size-base:          14px;
+@font-size-large:         ceil(@font-size-base * 1.25); // ~18px
+@font-size-small:         ceil(@font-size-base * 0.85); // ~12px
+@line-height-base:        1.428571429; // 20/14
 @line-height-computed:    floor(@font-size-base * @line-height-base);
 
 // Sizes
@@ -31,13 +31,13 @@
 @sidebar-width:                       300px;
 @sidebar-breakpoint:                  600px;
 @sidebar-color:                       hsl(207, 15%, 25%);
-@sidebar-background:                  #F2F2F1;
-@sidebar-border-right:                0px;
+@sidebar-background:                  #fafafa;
+@sidebar-border-right:                1px solid @header-border;
 
 @sidebar-nested-padding:              20px;
-@sidebar-divider-color:               #F2F2F1;
+@sidebar-divider-color:               @header-border;
 
-@sidebar-header-color:                #F2F2F1;
+@sidebar-header-color:                #939da3;
 
 @sidebar-link-color:                  @sidebar-color;
 @sidebar-link-background:             transparent;
@@ -56,12 +56,12 @@
 @search-highlight-color:              rgba(255, 220, 0, 0.4);
 
 // Page
-@page-color:                          #343434;
+@page-color:                          black;
 @page-background:                     @body-background;
 
 // Content
-@content-line-height:                 1;
-@content-color:                       #343434;
+@content-line-height:                 1.7;
+@content-color:                       #333333;
 
 // Dropdown
 @dropdown-zindex:                     100;
@@ -72,14 +72,14 @@
 @dropdown-button-hover-color:         @header-button-hover-color;
 
 // Buttons
-@button-background:                   #EB6F93;
-@button-color:                        #fff;
-@button-hover-color:                  #fff;
+@button-background:                   #eee;
+@button-color:                        #666;
+@button-hover-color:                  #444;
 
 // Border Radius
-@border-radius-base:                  3px;
+@border-radius-base:                  1px;
 @border-radius-large:                 3px;
-@border-radius-small:                 3px;
+@border-radius-small:                 1px;
 
 // Fonts
 @font-family-serif:                   "Klarna Headline", Georgia, serif;
@@ -90,9 +90,9 @@
 @FontPath:                            '@{staticPath}/fonts';
 @fa-font-path:                        "@{FontPath}/fontawesome";
 
-@s-font-size:                         1.0rem;
-@m-font-size:                         1.0rem;
-@l-font-size:                         1.0rem;
-@xl-font-size:                        1.0rem;
-@xxl-font-size:                       1.0rem;
+@s-font-size:                         1.2rem;
+@m-font-size:                         1.4rem;
+@l-font-size:                         1.6rem;
+@xl-font-size:                        2.2rem;
+@xxl-font-size:                       4.0rem;
 @default-font-size:                   @l-font-size;
