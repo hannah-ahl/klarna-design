@@ -91,21 +91,21 @@ th{
   background-color: #ffffff;
 }
 
-li{
+.book-summary.li{
   font-family: "Klarna Sans";
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0;
 }
 
-.li.chapter{
+.book-summary.li.chapter{
   color: #787878;
 }
 
-.li.chapter.active{
+.book-summary.li.chapter.active{
   color: #343434;
 }
 
-.li.divider{
+.book-summary.li.divider{
   background-color: #ffffff;
 }
