@@ -64,6 +64,10 @@ p{
   color: #787878;
 }
 
+.comments-section p{
+  padding-bottom: 30px;
+}
+
 /* -------------- TABLE -------------- */
 
 table{
@@ -74,7 +78,6 @@ table{
   color: #343434;
 
   border: 1px solid #e9e9e8;
-  margin: 30px 0px;
 }
 
 th, td {
@@ -83,12 +86,6 @@ th, td {
 
 th{
   height: 40px;
-  font-weight: 1000;
-  margin-top: 30px;
-}
-
-thead{
-  margin-top: 30px;
 }
 
 /* -------------- SIDEBAR -------------- */
