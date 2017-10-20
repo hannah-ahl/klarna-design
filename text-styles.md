@@ -12,3 +12,5 @@ Trying out customizing css
 
 This is a paragraph
 
+This is a [link](/klarna.se)
+
