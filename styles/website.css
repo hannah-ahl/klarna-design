@@ -21,6 +21,9 @@ time, mark, audio, video {
 	border: 0;
 }
 
+.font-size-2{
+  font-size: 1rem;
+}
 
 body{
   font-family: "Klarna Sans";
