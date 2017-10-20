@@ -119,15 +119,15 @@ th{
   text-transform: underline;
 }
 
-.book-summary.summary.li.chapter a{
+.book-summary.summary.chapter a{
   color: #787878;
   text-transform: underline;
 }
 
-.book-summary.summary.li.chapter.active a{
+.book-summary.summary.chapter.active a{
   color: #343434;
 }
 
-.book-summary.summary.li.divider{
+.book-summary.summary.divider{
   border: none;
 }
