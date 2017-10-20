@@ -4,8 +4,6 @@
 
 Bordered fields should be used for flows where conversion play a big part, e.g. KCO, KP and Sofort. Borderless fields should be used for “home-base” interfaces such as the Klarna App and desktop interface, internal interfaces and styleguides.
 
-![](/assets/Input@1x.png)
-
 
 
 | Component | Guideline |
