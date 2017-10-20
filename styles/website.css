@@ -96,6 +96,10 @@ th{
   font-weight: 1000;
 }
 
+.book-summary{
+  background-color: #f2f2f1;
+}
+
 /*tr:nth-child(even){
   background-color: #f2f2f1;
 }*/
