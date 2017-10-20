@@ -52,5 +52,13 @@ table{
 }
 
 th, td {
-    vertical-align: middle;
+  vertical-align: middle;
+}
+
+th{
+  height: 40px;
+}
+
+tr:nth-child(even){
+  background-color: #f2f2f1;
 }
