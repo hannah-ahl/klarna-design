@@ -27,12 +27,12 @@
 
 | Color | State | Value |
 | :--- | :--- | :--- |
-| Black | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Dark Grey | Default |  |
-|  | Hover |  |
-|  | Press |  |
+| Black | Default | \#343434 |
+|  | Hover | \#191919 |
+|  | Press | \#0D0D0D |
+| Dark Grey | Default | \#787878 |
+|  | Hover | \#565656 |
+|  | Press | \#454545 |
 | Metadata | - |  |
 | Divider, Strong | Default |  |
 |  | Hover |  |
@@ -40,7 +40,7 @@
 | Divider, Regular | Default |  |
 |  | Hover |  |
 |  | Press |  |
-| Grey | - |  |
+| Grey | - | #F2F2F1 |
 | White | Default |  |
 |  | Hover |  |
 |  | Press |  |
