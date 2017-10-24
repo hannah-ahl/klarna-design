@@ -7,10 +7,16 @@
 | Black | Default | \#343434 |
 |  | Hover | \#191919 |
 |  | Press | \#0D0D0D |
-|  |  |  |
 | Grey | Default | \#787878 |
 |  | Hover | \#565656 |
 |  | Press | \#454545 |
+| Metadata | Default |  |
+| Primary | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Secondary | Default |  |
+|  | Hover |  |
+|  | Press |  |
 
 
 
