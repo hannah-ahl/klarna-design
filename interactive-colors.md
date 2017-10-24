@@ -20,7 +20,7 @@
 | Secondary | Default | \#6E9896 |
 |  | Hover | \#608E8C |
 |  | Press | \#528482 |
-| Disabled \(Greyscale\) | - | Divider, Strong \(\#D1D1D0\) |
+| Disabled \(Greyscale\) | - | Metadata \(\#9C9C9B\), Opacity: 0.5 |
 | Disabled \(Colored\) | - | Opacity: 0.2 |
 
 ### Background colors
