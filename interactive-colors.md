@@ -25,3 +25,33 @@
 
 
 
+### Background colors
+
+| Color | State | Value |
+| :--- | :--- | :--- |
+| Black | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Dark Grey | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Metadata | - |  |
+| Divider, Strong | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Divider, Regular | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Grey | - |  |
+| White | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Primary | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Secondary | Default |  |
+|  | Hover |  |
+|  | Press |  |
+
+
+
