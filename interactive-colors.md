@@ -11,6 +11,9 @@
 |  | Hover | \#565656 |
 |  | Press | \#454545 |
 | Metadata | - |  |
+| White | Default | \#FFFFFF |
+|  | Hover | Opacity: |
+|  | Press | Opacity: |
 | Primary | Default |  |
 |  | Hover |  |
 |  | Press |  |
