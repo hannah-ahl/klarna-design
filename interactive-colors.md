@@ -59,24 +59,18 @@
 
 | Color | State | Value |
 | :--- | :--- | :--- |
-| Error, Text | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Error, Divider & Icon | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Error, Background | - |  |
-| Warning, Text | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Warning, Divider & Icon | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Warning, Background | - |  |
-| Success, Text | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Success, Divider & Icon | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Success, Background | - |  |
+| Error, Text | - | \#E66640 |
+| Error, Divider & Icon | Default | \#FC8064 |
+|  | Hover | \#F17352 |
+|  | Press | Error, Text \(\#E66640\) |
+| Error, Background | - | \#FFD4C2 |
+| Warning, Text | - | \#CA8A1C |
+| Warning, Divider & Icon | Default | \#E2AC62 |
+|  | Hover | \#D69B3F |
+|  | Press | Warning, Text \(\#CA8A1C\) |
+| Warning, Background | - | \#FCE8BA |
+| Success, Text | - | \#589E60 |
+| Success, Divider & Icon | Default | \#82BC7E |
+|  | Hover | \#6DAD6F |
+|  | Press | Success, Text \(\#589E60\) |
+| Success, Background | - | \#DAEEBC |
