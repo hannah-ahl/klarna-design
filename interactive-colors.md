@@ -66,3 +66,17 @@
 |  | Hover |  |
 |  | Press |  |
 | Error, Background | - |  |
+| Warning, Text | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Warning, Divider & Icon | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Warning, Background | - |  |
+| Success, Text | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Success, Divider & Icon | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Success, Background | - |  |
