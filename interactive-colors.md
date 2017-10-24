@@ -10,17 +10,17 @@
 | Grey | Default | \#787878 |
 |  | Hover | \#565656 |
 |  | Press | \#454545 |
-| Metadata | - |  |
+| Metadata | - | \#9C9C9B |
 | White | Default | \#FFFFFF |
-|  | Hover | Opacity: |
-|  | Press | Opacity: |
-| Primary | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Secondary | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Disabled \(Greyscale\) | - | Divider, strong \(\#\) |
+|  | Hover | Opacity: 0.9 |
+|  | Press | Opacity: 0.8 |
+| Primary | Default | \#EB6F93 |
+|  | Hover | \#E16A8E |
+|  | Press | \#D76589 |
+| Secondary | Default | \#6E9896 |
+|  | Hover | \#608E8C |
+|  | Press | \#528482 |
+| Disabled \(Greyscale\) | - | Divider, strong \(\#D1D1D0\) |
 | Disabled \(Colored\) | - | Opacity: 0.2 |
 
 ### Background colors
@@ -33,25 +33,25 @@
 | Dark Grey | Default | \#787878 |
 |  | Hover | \#565656 |
 |  | Press | \#454545 |
-| Metadata | - |  |
-| Divider, Strong | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Divider, Regular | Default |  |
-|  | Hover |  |
-|  | Press |  |
+| Metadata | - | \#9C9C9B |
+| Divider, Strong | Default | \#D1D1D0 |
+|  | Hover | Metadata \(\#9C9C9B\) |
+|  | Press | Dark Gray \(\#787878\) |
+| Divider, Regular | Default | \#E9E9E8 |
+|  | Hover | Divider, Strong \(\#D1D1D0\) |
+|  | Press | Metadata \(\#9C9C9B\) |
 | Grey | - | #F2F2F1 |
-| White | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Primary | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Secondary | Default |  |
-|  | Hover |  |
-|  | Press |  |
-| Disabled \(Greyscale\), Dividers | - | Divider, Regular \(\#\) |
-| Disabled \(Greyscale\), Icons | - | Divider, Strong \(\#\) |
+| White | Default | #FFFFFF |
+|  | Hover | Opacity: 0.9 |
+|  | Press | Opacity: 0.8 |
+| Primary | Default | \#EB6F93 |
+|  | Hover | \#E16A8E |
+|  | Press | \#D76589 |
+| Secondary | Default | \#6E9896 |
+|  | Hover | \#608E8C |
+|  | Press | \#528482 |
+| Disabled \(Greyscale\), Dividers | - | Divider, Regular \(\#E9E9E8\) |
+| Disabled \(Greyscale\), Icons | - | Divider, Strong \(\#D1D1D0\) |
 | Disabled \(Colored\) | - | Opacity: 0.2 |
 
 
