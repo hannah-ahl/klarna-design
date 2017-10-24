@@ -20,10 +20,8 @@
 | Secondary | Default |  |
 |  | Hover |  |
 |  | Press |  |
-| Disabled \(greyscale\) | - | Divider, strong \(\#\) |
-| Disabled \(colored\) | - | Opacity: 0.2 |
-
-
+| Disabled \(Greyscale\) | - | Divider, strong \(\#\) |
+| Disabled \(Colored\) | - | Opacity: 0.2 |
 
 ### Background colors
 
@@ -52,6 +50,9 @@
 | Secondary | Default |  |
 |  | Hover |  |
 |  | Press |  |
+| Disabled \(Greyscale\), Dividers | - | Divider, Regular \(\#\) |
+| Disabled \(Greyscale\), Icons | - | Divider, Strong \(\#\) |
+| Disabled \(Colored\) | - | Opacity: 0.2 |
 
 
 
