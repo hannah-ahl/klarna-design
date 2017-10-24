@@ -8,9 +8,9 @@
 |  | Hover | \#191919 |
 |  | Press | \#0D0D0D |
 |  |  |  |
-| Grey | Default |  |
-|  | Hover |  |
-|  | Press |  |
+| Grey | Default | \#787878 |
+|  | Hover | \#565656 |
+|  | Press | \#454545 |
 
 
 
