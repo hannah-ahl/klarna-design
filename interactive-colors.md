@@ -55,8 +55,14 @@
 | Disabled \(Colored\) | - | Opacity: 0.2 |
 
 
+### Status colors
 
-Status colors
-
-
-
+| Color | State | Value |
+| :--- | :--- | :--- |
+| Error, Text | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Error, Divider & Icon | Default |  |
+|  | Hover |  |
+|  | Press |  |
+| Error, Background | - |  |
