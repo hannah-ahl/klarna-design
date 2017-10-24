@@ -7,7 +7,7 @@
 | Black | Default | \#343434 |
 |  | Hover | \#191919 |
 |  | Press | \#0D0D0D |
-| Grey | Default | \#787878 |
+| Dark Grey | Default | \#787878 |
 |  | Hover | \#565656 |
 |  | Press | \#454545 |
 | Metadata | - | \#9C9C9B |
@@ -20,7 +20,7 @@
 | Secondary | Default | \#6E9896 |
 |  | Hover | \#608E8C |
 |  | Press | \#528482 |
-| Disabled \(Greyscale\) | - | Divider, strong \(\#D1D1D0\) |
+| Disabled \(Greyscale\) | - | Divider, Strong \(\#D1D1D0\) |
 | Disabled \(Colored\) | - | Opacity: 0.2 |
 
 ### Background colors
