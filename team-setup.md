@@ -24,6 +24,8 @@ Shopping: Henrik Wiberg
 
 You: Oleg M
 
+
+
 Design lead: Viktor Hofte
 
 Feed: Max
@@ -32,7 +34,9 @@ Tracking: Cristiano
 
 Spending: KJ/Blombäck
 
-Purchase:
+
+
+Purchase
 
 Design lead: N/A
 
