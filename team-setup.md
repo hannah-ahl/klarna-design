@@ -1,6 +1,4 @@
-
-
-Domain setup
+### Domain setup
 
 The design team is split in 4 to cover the 3 largest domains and the universal design system.
 
@@ -12,11 +10,11 @@ Purchase: Pre-purchase products - Klarna checkout, Klarna payments and stand-alo
 
 Design system/toolkit: The holistic experience and design language for all domains.
 
-Responsibilities
+### Responsibilities
 
 Design director: Jordi Parra
 
-Consumer:
+#### Consumer
 
 Design lead: Victor Erixon
 
