@@ -1,4 +1,4 @@
-### Domain setup
+# Team structure
 
 The design team is split in 4 to cover the 3 largest domains and the universal design system.
 
@@ -24,8 +24,6 @@ Shopping: Henrik Wiberg
 
 You: Oleg M
 
-
-
 Design lead: Viktor Hofte
 
 Feed: Max
@@ -33,8 +31,6 @@ Feed: Max
 Tracking: Cristiano
 
 Spending: KJ/Blombäck
-
-
 
 Purchase
 
