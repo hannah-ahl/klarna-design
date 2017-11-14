@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Design Team](team-setup.md)
 * [Resources](resources.md)
-* [Consumer](consumer.md)
+* [App](consumer.md)
 * [Purchase](purchase.md)
 * Merchant
 * [UI Components](component-library.md)
@@ -16,4 +16,5 @@
 * [Branding Material](branding-material.md)
 * [Icons](icons.md)
 * Accessibility
+* [Onboarding](onboarding.md)
 
