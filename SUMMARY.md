@@ -11,4 +11,5 @@
 * [Animation Curves](animation-curves.md)
 * Workflow
 * [Grid](grid.md)
+* Modals
 
