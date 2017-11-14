@@ -4,7 +4,7 @@
 * [Design Team](team-setup.md)
 * [Resources](resources.md)
 * [App](consumer.md)
-* [Purchase](purchase.md)
+* [Dropdown](purchase.md)
 * Merchant
 * [UI Components](component-library.md)
 * [Input Field](input-fields.md)
