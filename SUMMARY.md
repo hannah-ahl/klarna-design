@@ -13,4 +13,6 @@
 * [Grid](grid.md)
 * [Modals](modals.md)
 * [Principles](domain-differences.md)
+* Branding Material
+* [Icons](icons.md)
 
