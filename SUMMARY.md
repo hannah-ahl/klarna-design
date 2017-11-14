@@ -5,7 +5,7 @@
 * [Resources](resources.md)
 * [App](consumer.md)
 * [Dropdown](purchase.md)
-* Merchant
+* [Selector](selector.md)
 * [UI Components](component-library.md)
 * [Input Field](input-fields.md)
 * [Animation Curves](animation-curves.md)
