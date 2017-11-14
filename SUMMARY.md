@@ -17,4 +17,5 @@
 * [Icons](icons.md)
 * Accessibility
 * [Onboarding](onboarding.md)
+* [Tables](tables.md)
 
