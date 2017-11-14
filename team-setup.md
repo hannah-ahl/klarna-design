@@ -86,3 +86,5 @@ For related issues not managed by product design:
 
 **Marketing design**: Camilla Birkström, Elias Aupeix
 
+**UI development**: Fernando Vía Canel, Moria Ahi Mordehai
+
