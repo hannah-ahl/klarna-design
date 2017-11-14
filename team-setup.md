@@ -28,7 +28,7 @@ Post-purchase customer products - mainly focused on the customer portal \(web an
 
 #### Purchase
 
-Pre-purchase products - Klarna checkout, Klarna payments and stand-alone payment methods, SOFORT and Klarna hosted payment pages.
+Pre-purchase products - Klarna Checkout, Klarna Payments and stand-alone payment methods, SOFORT and Klarna hosted payment pages.
 
 **Design lead**: N/A
 
