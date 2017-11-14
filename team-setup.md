@@ -1,72 +1,76 @@
 # Team structure
 
-The design team is split in 4 to cover the 3 largest domains and the universal design system.
-
-Consumer: Post-purchase customer products - mainly focused on the customer portal \(web and native app\).
-
-Merchant: The merchant portal and internal tools - e.g. Developer portal and customer service portals
-
-Purchase: Pre-purchase products - Klarna checkout, Klarna payments and stand-alone payment methods, SOFORT and Klarna Hosted payment pages
-
-Design system/toolkit: The holistic experience and design language for all domains.
+The design team responsibilities are split in 4 domains to cover the 3 largest user areas and the universal design system.
 
 ### Responsibilities
 
-Design director: Jordi Parra
+**Design director**: Jordi Parra
 
 #### Consumer
 
-Design lead: Victor Erixon
+Post-purchase customer products - mainly focused on the customer portal \(web and native app\). The consumer domain is divided under two leads with their respective designers.
 
-Chat: Victor Erixon
+**Design lead**: Victor Erixon
 
-Shopping: Henrik Wiberg
+**Chat**: Victor Erixon
 
-You: Oleg M
+**Shopping**: Henrik Wiberg
 
-Design lead: Viktor Hofte
+**You**: Oleg Malakhov
 
-Feed: Max
+**Design lead**: Viktor Hofte
 
-Tracking: Cristiano
+**Home**: Max Henningsson
 
-Spending: KJ/Blombäck
+**Tracking**: Cristiano Sarmento
 
-Purchase
+**Cashflow**: KJ Vogelius
 
-Design lead: N/A
+#### Purchase
 
-Foteini KCO, address module, shipping selector
+Pre-purchase products - Klarna checkout, Klarna payments and stand-alone payment methods, SOFORT and Klarna hosted payment pages.
 
-Jo KP, upstream
+**Design lead**: N/A
 
-Yatir Pay now, authentication
+**KCO**: Foteini Ioakeimidou
 
-Yavus SOFORT
+**Address module**: Foteini Ioakeimidou
 
-Merchant:
+**Shipping selector**: Foteini Ioakeimidou
 
-Design lead: N/A
+**KP**: Jo Chevry
 
-Merchant portal: Sebastian Norde
+**Upstream**: Jo Chevry
 
-Internal tools: Sebastian Norde
+**Pay now**: Yatir Keren
 
-Design system:
+**Authentication**: Yatir Keren
 
-Dedicated designer: Hannah
+**SOFORT**: Yavus Kus
 
-Run together with the design director and domain leads
+#### Merchant
 
-UX researchers:
+The merchant portal and internal tools - e.g. Developer portal and customer service portals.
 
-Dmitry
+**Design lead**: N/A
 
-&
+**Merchant portal**: Sebastian Norde
 
-Brigitte
+**Internal tools**: Sebastian Norde
 
-Slack channels
+#### Design system
+
+The holistic experience and design language for all domains - driven together with the design director and domain leads.
+
+**Dedicated designer**: Hannah Ahl
+
+#### UX researchers
+
+Dmitry Pavlov
+
+Brigitte Ringbauer
+
+### Slack channels
 
 \#design
 
@@ -74,11 +78,11 @@ Slack channels
 
 \#ui
 
-Other points of contact
+### Other points of contact
 
-Related issues not managed by product design
+For related issues not managed by product design:
 
-Tech sales design: Jeff, Aajmed, Niklas
+**Tech sales design**: Jeff Negrelli, Ahmen Aarbaj, Niklas Lindohf
 
-Marketing design: Camilla Bäckström, Elias
+**Marketing design**: Camilla Birkström, Elias Aupeix
 
