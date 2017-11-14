@@ -7,6 +7,6 @@
 * [Domain: Purchase](purchase.md)
 * Domain: Merchant
 * [UI Components](component-library.md)
-* [Component: Input Fields](input-fields.md)
+* [Component: Input Field](input-fields.md)
 * [Animation Curves](animation-curves.md)
 
