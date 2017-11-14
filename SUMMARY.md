@@ -3,10 +3,10 @@
 * [Introduction](README.md)
 * [Design Team](team-setup.md)
 * [Resources](resources.md)
-* [Domain: Consumer](consumer.md)
-* [Domain: Purchase](purchase.md)
-* Domain: Merchant
+* [Consumer](consumer.md)
+* [Purchase](purchase.md)
+* Merchant
 * [UI Components](component-library.md)
-* [Component: Input Field](input-fields.md)
+* [Input Field](input-fields.md)
 * [Animation Curves](animation-curves.md)
 
