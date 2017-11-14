@@ -11,3 +11,14 @@ Bordered fields should be used for flows where conversion plays a big part, e.g.
 
 
 
+
+
+Input fields
+
+* Autocompletion
+* Error/warning states
+* On background
+* Minimal \(app and mexp\)
+
+
+
