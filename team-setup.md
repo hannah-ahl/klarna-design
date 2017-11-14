@@ -1,6 +1,6 @@
 # Team structure
 
-The design team responsibilities are split in 4 domains to cover the 3 largest user areas and the universal design system.
+The design team responsibilities are split over 4 domains to cover the 3 largest user areas and the universal design system.
 
 ### Responsibilities
 
