@@ -24,7 +24,7 @@ time, mark, audio, video {
 body{
   font-family: "Klarna Sans";
   font-size: 16px;
-  color: #343434;
+  color: #787878;
 }
 
 h1{
@@ -32,6 +32,7 @@ h1{
   font-size: 36px;
   line-height: 50px;
   letter-spacing: -0.2;
+	color: #343434;
 }
 
 h2{
@@ -39,6 +40,7 @@ h2{
   font-size: 23px;
   line-height: 25px;
   letter-spacing: -0.2;
+	color: #343434;
 }
 
 h3{
@@ -46,6 +48,7 @@ h3{
   font-size: 19px;
   line-height: 25px;
   letter-spacing: -0.2;
+	color: #343434;
 }
 
 h4{
@@ -54,6 +57,7 @@ h4{
   letter-spacing: 1;
   line-height: 20px;
   font-weight: bold;
+	color: #343434;
 }
 
 p{
