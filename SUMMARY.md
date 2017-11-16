@@ -14,7 +14,7 @@
 * [UI Components](components.md)
 * [Icons](icons.md)
 * [Modals](modals.md)
-* [Input Field](input-fields.md)
+* [Input Field](input.md)
 * [Dropdown](dropdown.md)
 * [Selector](selector.md)
 * [Tables](tables.md)
