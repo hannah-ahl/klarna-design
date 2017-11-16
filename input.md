@@ -20,6 +20,17 @@ Regular, bordered fields should be used for flows where conversion plays a big p
 
 ### Interactive states
 
+### Error handling
+Error and warning fields are used to respond to a user’s input when it is invalid, seems off or is missing.
+
+Use **error** fields when:
+1. The input is invalid and *must be changed*.
+2. A field which must be filled in is left empty.
+
+Use **warning** fields when:
+1. The input seems off, but the user *can still continue* with it.
+2. A field which should, but doesn’t have to, be filled in is left empty.
+
 ### Autocompletion
 Autofilled fields are used for when we autocomplete an active input by the user, with saved browser details.
 
