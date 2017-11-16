@@ -2,28 +2,31 @@
 
 * [Introduction](README.md)
 * [Design Team](design-team.md)
-
-
 * [Principles](principles.md)
 * [Workflow](workflow.md)
 * [Resources](resources.md)
+
+## Styleguide
+* [Text Styles](text.md)
 * [Colors](colors.md)
-* [Accessibility](accessibility.md)
 * [Grid](grid.md)
+* [Icons](icons.md)
+* [Animation Curves](animation-curves.md)
+* [Branding Material](branding-material.md)
+
+## Products
+* [App](app.md)
 
 ## Patterns
-* [App](app.md)
 * [Onboarding](onboarding.md)
 
-## Component guidelines
-* [UI Components](components.md)
-* [Icons](icons.md)
+## Component Guidelines
+* [Introduction](components.md)
 * [Modals](modals.md)
 * [Input Field](input.md)
 * [Dropdown](dropdown.md)
 * [Selector](selector.md)
 * [Tables](tables.md)
 
-
-* [Animation Curves](animation-curves.md)
-* [Branding Material](branding-material.md)
+## Other
+* [Accessibility](accessibility.md)
