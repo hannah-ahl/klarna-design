@@ -5,7 +5,6 @@
 * [Principles](principles.md)
 * [Workflow](workflow.md)
 * [Resources](resources.md)
-* [Branding Material](branding-material.md)
 * [Colors](colors.md)
 * [Accessibility](accessibility.md)
 * [Grid](grid.md)
@@ -19,3 +18,4 @@
 * [Selector](selector.md)
 * [Tables](tables.md)
 * [Animation Curves](animation-curves.md)
+* [Branding Material](branding-material.md)
