@@ -13,8 +13,8 @@ Regular, bordered fields should be used for flows where conversion plays a big p
 
 | Field | Guideline |
 | :--- | :--- |
-| ![]() | On background fields - same as regular fields (all states) but without the border |
-| ![]() | Minimal fields - used in small-action cases where error handling and conversion isn't relevant, e.g. search bars and chat messaging |
+| ![]() | Use "on background" fields on top of dark backgrounds |
+| ![]() | Use minimal fields in small-action cases where error handling and conversion aren't relevant, e.g. search bars and chat messaging |
 
 ### Stacked fields
 
