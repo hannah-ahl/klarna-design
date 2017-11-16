@@ -1,4 +1,4 @@
-# Interactive colors 
+# Colors 
 
 ### Font colors
 
