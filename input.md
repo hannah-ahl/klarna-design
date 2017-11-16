@@ -1,6 +1,6 @@
 # Input field
 
-### Main field types
+### Primary field types
 
 Regular, bordered fields should be used for flows where conversion plays a big part, e.g. KCO, KP and Sofort. Borderless fields should be used for “home-base” interfaces such as the Klarna App and desktop interface, internal interfaces and styleguides.
 
