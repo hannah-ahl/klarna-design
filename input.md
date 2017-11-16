@@ -35,4 +35,5 @@ Use **warning** fields when:
 Autofilled fields are used for when we autocomplete an active input by the user, with saved browser details.
 
 **Do:** Use autofilled fields to complete an input series.
+
 **Don't:** Use autofilled fields for content *prefilled* by Klarna.
