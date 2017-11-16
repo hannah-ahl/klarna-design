@@ -23,4 +23,8 @@ We'll hold your hand and walk you through every step so you feel guided. We're o
 
 ### Visual principles
 
-(lines, flat, etc)
+#### Avoid vertical lines
+Avoid vertical (and horizontal) lines whenever possible to prevent the UI from getting a boxed in feeling.
+
+#### Flat first
+Unless necessary for the use case and comprehension, the Klarna UI is a flat-styled experience. 
