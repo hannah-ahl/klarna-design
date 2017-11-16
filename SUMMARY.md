@@ -12,6 +12,7 @@
 * [Text Styles](text.md)
 * [Colors](colors.md)
 * [Grid](grid.md)
+* [Spacings](spacings.md)
 * [Icons](icons.md)
 * [Animation Curves](animation-curves.md)
 * [Branding Material](branding-material.md)
