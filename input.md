@@ -6,7 +6,7 @@ Regular, bordered fields should be used for flows where conversion plays a big p
 
 | Field | Guideline |
 | :--- | :--- |
-| ![](/assets/Field@1x.png) | Use regular fields for **conversion sensisive** flows. |
+| ![](/assets/Field@1x.png) | Use regular fields for **conversion sensitive** flows. |
 | ![](/assets/Input@1x.png) | Use borderless fields for **in-product** flows. |
 
 ### Variations
