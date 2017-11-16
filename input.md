@@ -21,3 +21,7 @@ Regular, bordered fields should be used for flows where conversion plays a big p
 ### Interactive states
 
 ### Autocompletion
+Autofilled fields are used for when we autocomplete an active input by the user, with saved browser details.
+
+**Do:** Use autofilled fields to complete an input series.
+**Don't:** Use autofilled fields for content *prefilled* by Klarna.
