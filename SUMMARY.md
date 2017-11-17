@@ -14,6 +14,7 @@
 * [Grid](grid.md)
 * [Spacings](spacings.md)
 * [Icons](icons.md)
+* [Visual Rules](styles.md)
 * [Animation Curves](animation-curves.md)
 * [Branding Material](branding-material.md)
 
